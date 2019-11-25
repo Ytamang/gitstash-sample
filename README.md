@@ -1,1 +1,1 @@
-# gitstash-sample
+# gitstash-sample: this is master branch
